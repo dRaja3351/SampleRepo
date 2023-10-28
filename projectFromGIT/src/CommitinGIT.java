@@ -1,4 +1,4 @@
-package projectFromGIT;
+
 
 public class CommitinGIT {
 
